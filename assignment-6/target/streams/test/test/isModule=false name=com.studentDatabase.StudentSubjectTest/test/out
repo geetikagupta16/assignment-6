@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m[32mStudentSubjectTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Inserting values in database[0m[0m
+[0m[[0minfo[0m] [0m[31m- Deleting values from database *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  0 did not equal 1 (StudentSubjectTest.scala:25)[0m[0m

@@ -1,0 +1,381 @@
+<scoverage 
+statement-count="89" statements-invoked="62" statement-rate="69.66" branch-rate="0.00" version="1.0" timestamp="1455346355458">
+    <packages>
+        <package name="com.studentDatabase" statement-count="89" statements-invoked="62" statement-rate="69.66">
+            <classes>
+                <class 
+                name="StudentInfo" filename="com/studentDatabase/StudentInfo.scala" statement-count="43" statements-invoked="27" statement-rate="62.79" branch-rate="0.00">
+                    <methods>
+                        <method 
+                        name="com.studentDatabase/StudentInfo/updatePhone" statement-count="4" statements-invoked="4" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="updatePhone" start="1687" end="1770" line="63" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="updatePhone" start="1711" end="1769" line="63" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="updatePhone" start="1775" end="1819" line="64" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="updatePhone" start="1653" end="1674" line="62" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.studentDatabase/StudentInfo/updateEmail" statement-count="4" statements-invoked="4" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="updateEmail" start="1520" end="1557" line="56" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="updateEmail" start="1399" end="1420" line="54" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="updateEmail" start="1433" end="1515" line="55" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="updateEmail" start="1457" end="1514" line="55" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.studentDatabase/StudentInfo/display" statement-count="16" statements-invoked="0" statement-rate="0.00" branch-rate="0.00">
+                            <statements>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="display" start="2031" end="2034" line="75" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="display" start="2007" end="2101" line="74" branch="true" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="display" start="2062" end="2078" line="75" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="display" start="2015" end="2100" line="75" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="display" start="1927" end="1975" line="73" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="display" start="2014" end="2014" line="75" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="display" start="2026" end="2027" line="75" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="display" start="1980" end="1980" line="74" branch="true" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="display" start="2056" end="2059" line="75" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="display" start="2087" end="2100" line="75" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="display" start="1891" end="1912" line="72" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="display" start="2081" end="2084" line="75" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="display" start="1987" end="1997" line="74" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="display" start="2007" end="2101" line="75" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="display" start="1980" end="1980" line="74" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="display" start="2037" end="2053" line="75" branch="false" invocation-count="0" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.studentDatabase/StudentInfo/getConnection" statement-count="5" statements-invoked="5" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="getConnection" start="368" end="374" line="19" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="getConnection" start="342" end="348" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="getConnection" start="439" end="491" line="21" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="getConnection" start="278" end="322" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="getConnection" start="379" end="417" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.studentDatabase/StudentInfo/&lt;none&gt;" statement-count="2" statements-invoked="2" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="&lt;none&gt;" start="184" end="222" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="&lt;none&gt;" start="208" end="221" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.studentDatabase/StudentInfo/insert" statement-count="4" statements-invoked="4" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="insert" start="623" end="644" line="28" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="insert" start="775" end="814" line="30" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="insert" start="659" end="770" line="29" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="insert" start="683" end="769" line="29" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.studentDatabase/StudentInfo/updateName" statement-count="4" statements-invoked="4" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="updateName" start="1202" end="1258" line="46" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="updateName" start="1144" end="1165" line="45" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="updateName" start="1264" end="1300" line="47" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="updateName" start="1178" end="1259" line="46" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.studentDatabase/StudentInfo/delete" statement-count="4" statements-invoked="4" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="delete" start="934" end="1004" line="38" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="delete" start="958" end="1003" line="38" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="delete" start="898" end="919" line="37" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentInfo" class-type="Class" top-level-class="StudentInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentInfo.scala" method="delete" start="1009" end="1047" line="39" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+                <class 
+                name="SubjectInfo" filename="com/studentDatabase/SubjectInfo.scala" statement-count="31" statements-invoked="20" statement-rate="64.52" branch-rate="0.00">
+                    <methods>
+                        <method 
+                        name="com.studentDatabase/SubjectInfo/delete" statement-count="4" statements-invoked="4" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.studentDatabase" class="SubjectInfo" class-type="Class" top-level-class="SubjectInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/SubjectInfo.scala" method="delete" start="888" end="909" line="36" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="SubjectInfo" class-type="Class" top-level-class="SubjectInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/SubjectInfo.scala" method="delete" start="996" end="1027" line="38" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="SubjectInfo" class-type="Class" top-level-class="SubjectInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/SubjectInfo.scala" method="delete" start="922" end="991" line="37" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="SubjectInfo" class-type="Class" top-level-class="SubjectInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/SubjectInfo.scala" method="delete" start="946" end="990" line="37" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.studentDatabase/SubjectInfo/display" statement-count="11" statements-invoked="0" statement-rate="0.00" branch-rate="0.00">
+                            <statements>
+                                <statement 
+                                package="com.studentDatabase" class="SubjectInfo" class-type="Class" top-level-class="SubjectInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/SubjectInfo.scala" method="display" start="1501" end="1514" line="55" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="SubjectInfo" class-type="Class" top-level-class="SubjectInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/SubjectInfo.scala" method="display" start="1483" end="1483" line="54" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="SubjectInfo" class-type="Class" top-level-class="SubjectInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/SubjectInfo.scala" method="display" start="1389" end="1399" line="52" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="SubjectInfo" class-type="Class" top-level-class="SubjectInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/SubjectInfo.scala" method="display" start="1466" end="1466" line="54" branch="true" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="SubjectInfo" class-type="Class" top-level-class="SubjectInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/SubjectInfo.scala" method="display" start="1472" end="1482" line="54" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="SubjectInfo" class-type="Class" top-level-class="SubjectInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/SubjectInfo.scala" method="display" start="1577" end="1577" line="58" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="SubjectInfo" class-type="Class" top-level-class="SubjectInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/SubjectInfo.scala" method="display" start="1357" end="1378" line="51" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="SubjectInfo" class-type="Class" top-level-class="SubjectInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/SubjectInfo.scala" method="display" start="1466" end="1466" line="54" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="SubjectInfo" class-type="Class" top-level-class="SubjectInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/SubjectInfo.scala" method="display" start="1483" end="1578" line="54" branch="true" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="SubjectInfo" class-type="Class" top-level-class="SubjectInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/SubjectInfo.scala" method="display" start="1412" end="1461" line="53" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="SubjectInfo" class-type="Class" top-level-class="SubjectInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/SubjectInfo.scala" method="display" start="1531" end="1547" line="56" branch="false" invocation-count="0" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.studentDatabase/SubjectInfo/insert" statement-count="4" statements-invoked="4" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.studentDatabase" class="SubjectInfo" class-type="Class" top-level-class="SubjectInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/SubjectInfo.scala" method="insert" start="722" end="773" line="28" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="SubjectInfo" class-type="Class" top-level-class="SubjectInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/SubjectInfo.scala" method="insert" start="664" end="685" line="27" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="SubjectInfo" class-type="Class" top-level-class="SubjectInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/SubjectInfo.scala" method="insert" start="779" end="811" line="29" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="SubjectInfo" class-type="Class" top-level-class="SubjectInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/SubjectInfo.scala" method="insert" start="698" end="774" line="28" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.studentDatabase/SubjectInfo/&lt;none&gt;" statement-count="2" statements-invoked="2" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.studentDatabase" class="SubjectInfo" class-type="Class" top-level-class="SubjectInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/SubjectInfo.scala" method="&lt;none&gt;" start="250" end="263" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="SubjectInfo" class-type="Class" top-level-class="SubjectInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/SubjectInfo.scala" method="&lt;none&gt;" start="226" end="264" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.studentDatabase/SubjectInfo/updateSubjectName" statement-count="4" statements-invoked="4" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.studentDatabase" class="SubjectInfo" class-type="Class" top-level-class="SubjectInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/SubjectInfo.scala" method="updateSubjectName" start="1164" end="1251" line="44" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="SubjectInfo" class-type="Class" top-level-class="SubjectInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/SubjectInfo.scala" method="updateSubjectName" start="1188" end="1250" line="44" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="SubjectInfo" class-type="Class" top-level-class="SubjectInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/SubjectInfo.scala" method="updateSubjectName" start="1256" end="1292" line="45" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="SubjectInfo" class-type="Class" top-level-class="SubjectInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/SubjectInfo.scala" method="updateSubjectName" start="1130" end="1151" line="43" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.studentDatabase/SubjectInfo/getConnection" statement-count="6" statements-invoked="6" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.studentDatabase" class="SubjectInfo" class-type="Class" top-level-class="SubjectInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/SubjectInfo.scala" method="getConnection" start="380" end="386" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="SubjectInfo" class-type="Class" top-level-class="SubjectInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/SubjectInfo.scala" method="getConnection" start="475" end="525" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="SubjectInfo" class-type="Class" top-level-class="SubjectInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/SubjectInfo.scala" method="getConnection" start="417" end="455" line="19" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="SubjectInfo" class-type="Class" top-level-class="SubjectInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/SubjectInfo.scala" method="getConnection" start="316" end="360" line="16" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="SubjectInfo" class-type="Class" top-level-class="SubjectInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/SubjectInfo.scala" method="getConnection" start="406" end="412" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="SubjectInfo" class-type="Class" top-level-class="SubjectInfo" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/SubjectInfo.scala" method="getConnection" start="530" end="568" line="21" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+                <class 
+                name="StudentSubject" filename="com/studentDatabase/StudentSubject.scala" statement-count="15" statements-invoked="15" statement-rate="100.00" branch-rate="100.00">
+                    <methods>
+                        <method 
+                        name="com.studentDatabase/StudentSubject/getConnection" statement-count="5" statements-invoked="5" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.studentDatabase" class="StudentSubject" class-type="Class" top-level-class="StudentSubject" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentSubject.scala" method="getConnection" start="435" end="485" line="19" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentSubject" class-type="Class" top-level-class="StudentSubject" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentSubject.scala" method="getConnection" start="340" end="346" line="16" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentSubject" class-type="Class" top-level-class="StudentSubject" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentSubject.scala" method="getConnection" start="276" end="320" line="15" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentSubject" class-type="Class" top-level-class="StudentSubject" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentSubject.scala" method="getConnection" start="377" end="415" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentSubject" class-type="Class" top-level-class="StudentSubject" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentSubject.scala" method="getConnection" start="366" end="372" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.studentDatabase/StudentSubject/delete" statement-count="4" statements-invoked="4" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.studentDatabase" class="StudentSubject" class-type="Class" top-level-class="StudentSubject" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentSubject.scala" method="delete" start="895" end="975" line="36" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentSubject" class-type="Class" top-level-class="StudentSubject" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentSubject.scala" method="delete" start="837" end="858" line="35" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentSubject" class-type="Class" top-level-class="StudentSubject" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentSubject.scala" method="delete" start="981" end="1031" line="37" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentSubject" class-type="Class" top-level-class="StudentSubject" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentSubject.scala" method="delete" start="871" end="976" line="36" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.studentDatabase/StudentSubject/&lt;none&gt;" statement-count="2" statements-invoked="2" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.studentDatabase" class="StudentSubject" class-type="Class" top-level-class="StudentSubject" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentSubject.scala" method="&lt;none&gt;" start="210" end="223" line="11" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentSubject" class-type="Class" top-level-class="StudentSubject" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentSubject.scala" method="&lt;none&gt;" start="186" end="224" line="11" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.studentDatabase/StudentSubject/insert" statement-count="4" statements-invoked="4" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.studentDatabase" class="StudentSubject" class-type="Class" top-level-class="StudentSubject" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentSubject.scala" method="insert" start="612" end="693" line="26" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentSubject" class-type="Class" top-level-class="StudentSubject" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentSubject.scala" method="insert" start="636" end="692" line="26" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentSubject" class-type="Class" top-level-class="StudentSubject" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentSubject.scala" method="insert" start="698" end="749" line="27" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.studentDatabase" class="StudentSubject" class-type="Class" top-level-class="StudentSubject" source="/home/knoldus/IdeaProjects/studentDatabase/src/main/scala/com/studentDatabase/StudentSubject.scala" method="insert" start="578" end="599" line="25" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+            </classes>
+        </package>
+    </packages>
+</scoverage>
